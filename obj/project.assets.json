@@ -12093,30 +12093,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rares\\.nuget\\packages\\": {},
+    "C:\\Users\\Delia\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rares\\Desktop\\Work\\QQInfo\\Dev\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Delia\\Desktop\\Practica Studenti 2019\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\rares\\Desktop\\Work\\QQInfo\\Dev\\WebApi\\WebApi.csproj",
-      "packagesPath": "C:\\Users\\rares\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rares\\Desktop\\Work\\QQInfo\\Dev\\WebApi\\obj\\",
+      "projectPath": "C:\\Users\\Delia\\Desktop\\Practica Studenti 2019\\WebApi\\WebApi.csproj",
+      "packagesPath": "C:\\Users\\Delia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Delia\\Desktop\\Practica Studenti 2019\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\rares\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Delia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

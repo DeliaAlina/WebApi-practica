@@ -12,3 +12,17 @@ c:\Users\rares\Desktop\Work\QQInfo\Dev\WebApi\obj\Debug\netcoreapp2.2\WebApi.Ass
 c:\Users\rares\Desktop\Work\QQInfo\Dev\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorTargetAssemblyInfo.cache
 c:\Users\rares\Desktop\Work\QQInfo\Dev\WebApi\obj\Debug\netcoreapp2.2\WebApi.dll
 c:\Users\rares\Desktop\Work\QQInfo\Dev\WebApi\obj\Debug\netcoreapp2.2\WebApi.pdb
+C:\Users\Delia\Desktop\Practica Studenti 2019\WebApi\bin\Debug\netcoreapp2.2\WebApi.deps.json
+C:\Users\Delia\Desktop\Practica Studenti 2019\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.json
+C:\Users\Delia\Desktop\Practica Studenti 2019\WebApi\bin\Debug\netcoreapp2.2\WebApi.runtimeconfig.dev.json
+c:\Users\Delia\Desktop\Practica Studenti 2019\WebApi\bin\Debug\netcoreapp2.2\WebApi.dll
+c:\Users\Delia\Desktop\Practica Studenti 2019\WebApi\bin\Debug\netcoreapp2.2\WebApi.pdb
+c:\Users\Delia\Desktop\Practica Studenti 2019\WebApi\obj\Debug\netcoreapp2.2\WebApi.csprojAssemblyReference.cache
+c:\Users\Delia\Desktop\Practica Studenti 2019\WebApi\obj\Debug\netcoreapp2.2\WebApi.csproj.CoreCompileInputs.cache
+c:\Users\Delia\Desktop\Practica Studenti 2019\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cache
+c:\Users\Delia\Desktop\Practica Studenti 2019\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorAssemblyInfo.cs
+c:\Users\Delia\Desktop\Practica Studenti 2019\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfoInputs.cache
+c:\Users\Delia\Desktop\Practica Studenti 2019\WebApi\obj\Debug\netcoreapp2.2\WebApi.AssemblyInfo.cs
+c:\Users\Delia\Desktop\Practica Studenti 2019\WebApi\obj\Debug\netcoreapp2.2\WebApi.RazorTargetAssemblyInfo.cache
+c:\Users\Delia\Desktop\Practica Studenti 2019\WebApi\obj\Debug\netcoreapp2.2\WebApi.dll
+c:\Users\Delia\Desktop\Practica Studenti 2019\WebApi\obj\Debug\netcoreapp2.2\WebApi.pdb
